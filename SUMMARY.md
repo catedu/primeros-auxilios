@@ -25,7 +25,7 @@ ____
 		* [Asfixia. Atragantamiento](asfixia_atragantamiento.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 
-<!--
+
 ### 2. Posición lateral de seguridad y Reanimación cardiopulmonar 
 * [Posición Lateral de Seguridad y Reanimación Cardiopulmonar](index1.md)
 * [Contenidos](contenidos1.md)
@@ -114,6 +114,6 @@ ____
 	* [U3. Instrucciones, procedimientos, etc](u3_instrucciones_procedimientos_etc.md)
 	* [Para saber más](para_saber_ms3.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
--->
+
 ___
 * [Créditos](crditos.md)
