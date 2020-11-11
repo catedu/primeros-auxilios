@@ -1,10 +1,7 @@
-# Tipos y actuación
+# Quemaduras. Tipos y actuación
 
 
 ![Fig.1.8. Quemadura. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_8.jpg) 
-
-
- 
 
 **Quemaduras eléctricas:**
 

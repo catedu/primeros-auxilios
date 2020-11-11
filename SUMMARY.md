@@ -13,7 +13,7 @@ ____
     * [Convulsiones](convulsiones.md)
     * [Convulsión febril](convulsin_febril.md)
     * [Quemaduras](quemaduras.md)
-    * [Tipos y actuación](tipos_y_actuacin.md)
+      * [Tipos y actuación](tipos_y_actuacin.md)
     * [Hipertermia, insolación](hipertermia_insolacin.md)
     * [Hemorragia](hemorragia.md)
     * [Traumatismo bucodental](traumatismo_bucodental.md)
