@@ -12,7 +12,7 @@ Disponible:
 
 A través de este enlace se obtiene una información en forma de "Hoja informativa" para cada enfermedad que precisa de tratamiento urgente. Está elaborado en una forma muy didáctica, ya que son esquemas gráficos que facilitan la actuación.
 
- **Aventura Gráfica en Primeros Auxilios. CATEDU**
+**Aventura Gráfica en Primeros Auxilios. CATEDU**
 
 Disponible:
 

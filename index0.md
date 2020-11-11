@@ -25,4 +25,4 @@ Aunque se trata de un **contenido no muy extenso, es importante el dominio de lo
 *   Saber en qué consiste, qué hay que hacer y qué no en un accidente común de un niño en el centro escolar
 *   Conocer los principios básicos de los primeros auxilios
 *   Realizar con éxito los primeros auxilios en el momento que se precise de tu actuación, incluidos los que se marcan, al finalizar el módulo 3, como situaciones de actuación rápida en una enfermedad crónica
-
+*   Comprender las medidas de prevención para ti y para la persona sobre la que tienes que actuar referentes a COVID-19, para hacerlo con la mayor seguridad

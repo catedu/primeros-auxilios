@@ -13,5 +13,20 @@ Conforme la autonomía del niño crece, incrementa las relaciones con su entorno
 
 Recuerda la última vez que actuaste para ayudar a un niño en uno de los siguientes accidentes: Accidentes en los ojos, Heridas,ontusiones, fracturas, Convulsiones, Dolor Abdominal, Hemorragia, Quemaduras por calor, químicas, eléctricas, rayo, Hipertermia e insolación, Traumatismo en la boca y dientes, Intoxicaciones... ahora sabrás qué tal lo hiciste, ya que son parte de los contenidos que vamos a estudiar, y podrás adquirir muchos más conocimientos.
 
-Te animanos a comenzar...
+**No vamos a estudiar** en este curso un **apartado específico de COVID-19,** ya que su contenido excedería los objetivos docentes, por lo que **te remitimos a otros cursos** que sí lo hacen (por ejemplo, **dentro de esta plataforma**: Salud y Prevención de riesgos por COVID-19 en la escuela en el curso 2020-21 ) y páginas oficiales de información que puedes consultar en el bibliografía.
 
+Ten siempre presente las **normas básicas de prevención e higiene,** sabiendo que en la realización de maniobras de primeros auxilios las recomendaciones actuales añaden a las que estaban vigentes previas a la pandemia, las normas ante una persona que, al desconocerse su estado, se considera con COVID-19.
+
+Estas normas son las que practicas de forma habitual en tu centro educativo, pero que debes prestar mayor atención ahora:
+
+- Lavado de manos antes y después de tu actuación con jabón y agua caliente al menos durante 20 segundos; si no es posible, utiliza solución hidroalcohólica.
+
+- Uso de guantes.
+
+- Utilización de Equipo de Protección Individual (EPI) cuando sea aplicable.
+
+- Evitar que el resto de personas se aglomere alrededor de ti y la persona a la que atiendes.
+
+- Es recomendable cubrir la nariz/boca de la “víctima” con una mascarilla que evite el contacto directo con los aerosoles.
+
+Te animanos a comenzar...

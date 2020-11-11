@@ -4,9 +4,10 @@ La promoción de la salud en el centro docente implica favorecer el desarrollo p
 
 Enfermedades como la diabetes, el asma o las intolerancias alimenticias pueden ocasionar, en el caso de desinformación, conductas que vas desde el sobreproteccionismo hasta no conceder la atención que se merece por desconocimiento del profesor.
 
-
-
 Respondiendo a la necesidad de dotar al profesorado de una información actualizada y de procedimientos adecuados en primeros auxilios y enfermedades crónicas, cada vez más prevalentes en la sociedad, está justificado aumentar la competencia profesional del docente para enfrentarse a situaciones de riesgo, minimizando miedos y favoreciendo una adecuada integración del alumnado en general y del alumno que está afecto de ciertas patologías, en particular.
 
-![](img/hospital.svg)
+**AÑADIR AL FINAL DE LA INTRODUCCIÓN:**
 
+Además, por la actual situación de la pandemia creada por la enfermedad infecciosa **COVID-19,** hemos **actualizado las actuaciones** que se deben llevar a cabo atendiendo a las últimas recomendaciones publicadas en cada contexto. Debido al escenario de **transmisión actual del virus SARS-CoV-2** deben cumplirse las medidas básicas de protección e higiene para controlar la transmisión y garantizar una respuesta adecuada por nuestra parte al atender a la población en general y a nuestro alumnado en particular, asegurando la máxima protección y eficacia.
+
+![Logo del Curso](img/hospital.svg)
