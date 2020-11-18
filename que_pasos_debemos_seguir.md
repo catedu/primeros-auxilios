@@ -10,6 +10,45 @@ Como vas a comprobar, el inicio es la parte correspondiente a lo que ya has estu
 >
 >**Los pasos de la RCP siguen una secuencia lógica para garantizar la efectividad y éxito de la técnica. Por ello no debemos saltarnos ningún paso.**
 
+### Recomendaciones del Plan Nacional de RCP, adaptadas a Covid-19
+
+Según las **recomendaciones del Plan Nacional de RCP, adaptadas a Covid-19,** “en el ámbito de la comunidad, las recomendaciones y la prudencia nos dicta a considerar a cualquier víctima en situación de Parada CardioRespiratoria (PCR) como si fuera una víctima con posible infección por COVID-19 y, por tanto, transmisor de la enfermedad para el reanimador que lo atienda. Por ello, resulta razonable adaptar la secuencia de atención a la PCR.”
+
+**Tales recomendaciones PARA LOS PASOS A SEGUIR son:**
+
+**1. COMPROBAR QUE LA ZONA ES SEGURA:** antes de iniciar la RCP, como siempre, comprueba que la zona es segura. 
+
+**2. PROTECCIÓN INDIVIDUAL:** debido al riesgo de infección, tú como reanimador puedes cubrir la boca y nariz de la víctima con una mascarilla -en el caso que no la lleve-  (si dispones de mascarilla quirúrgica, mascarilla KN95/FFP2) para evitar el efecto aerosol. No olvides protegerte con tu mascarilla antes de iniciar las maniobras de RCP.
+
+**3. VALORA EL PARO CARDÍACO:** busca la ausencia de signos de vida y de respiración normal: para poder determinar la ausencia de respiración normal, no abras la vía aérea mediante la maniobra frente-mentón (que conoces) y no realices la maniobra “ver-oír- sentir” para comprobar si respira. 
+
+**- Si la víctima está inconsciente y no respira normalmente,** asume que está en situación de PCR. 
+
+- **Si la víctima está inconsciente pero tiene una respiración normal perfectamente objetivable,** colócalo en Posición Lateral de Seguridad, si no sospechas que exista riesgo de lesión medular, por ejemplo en el contexto de un accidente.
+
+**4. PIDE AYUDA:** llama al 112 y activa el altavoz u otra opción de manos libres en el teléfono móvil.
+
+**5. INICIA MANIOBRAS RCP:** con solo compresiones torácicas ininterrumpidas hasta que llegue la ayuda que has solicitado. 
+
+La pauta es: profundidad 5-6 cm, frecuencia 100-120/min. **Muy Importante: NO intercales las respiraciones de rescate (respiraciones boca a boca) con las compresiones.**
+
+**6. PIDE UN DESFIBRILADOR EXTERNO AUTOMÁTICO (DEA):** pídeselo a un testigo que esté contigo, por si hubiera uno cercano en un espacio cardioprotegido (es importante que esta información la sepáis).
+
+**7- LLEGADA DEL DEA:** enciéndelo y abre el dispositivo.
+
+*   Coloca los parches autoadhesivos sobre el pecho de la víctima y sigue las indicaciones de los mensajes de voz/visuales del DEA. 
+*   Un electrodo se coloca bajo la clavícula derecha y otro en la línea media axilar izquierda (costado izquierdo a unos 10 cm de la axila).
+*   Es importante que nadie toque a la víctima mientras el DEA realiza el análisis del ritmo cardíaco.
+
+El uso precoz de un desfibrilador multiplica las posibilidades de supervivencia de la víctima y no aumenta el riesgo de transmisión de la infección.
+
+**8- HIGIENE DE MANOS TRAS LA REANIMACIÓN:** tras la RCP con solo compresiones torácicas, todas las personas que han intervenido y tan pronto como sea posible,debéis lavaros bien las manos con agua y jabón o solución hidroalcohólica, para minimizar el riesgo de transmisión por el contacto con los fómites de la víctima. Además, se aconseja lavar la ropa utilizada durante las maniobras de RCP.
+
+**Nota: a continuación te dejamos para su visionado las recomendaciones clásicas, para que puedas comprobar los cambios introducidos.**
+
+**Te aconsejamos la consulta de la bibliografía**
+
+
 ### **Pasos en la RCP:**
 
 **1.Verificar el nivel de consciencia de la persona (paciente a partir de ahora).**Podemos preguntar cómo se encuentra o practicarle leves sacudidas o palmadas, siempre y cuando tengamos la certeza de que no padece ninguna posible lesión en el cuello o en la cabeza debido a un accidente. Se debe observar si se mueve o emite algún ruido.
@@ -38,11 +77,7 @@ Como vas a comprobar, el inicio es la parte correspondiente a lo que ya has estu
 
 **5\. Si respira, lo colocaremos en posición lateral de seguridad (PLS)** siempre que sea posible y llamaremos a urgencias hasta la llegada de los equipos asistenciales comprobando en todo momento su respiración. ¡Ya sabes hacerlo, recuérdalo!
 
-
 ![Fig.2.4. Pasos PLS](img/M2_3.jpg)
-
-
- 
 
 **6\. Si el paciente no respira y estamos acompañados de otra persona, debemos indicarle que avise a emergencias (112)**. Mientras, nosotros no nos separaremos del paciente e iniciaremos la respiración artificial (boca-boca). ¡Ya sabes hacerlo, recuérdalo!
 
@@ -92,9 +127,6 @@ Colocaremos al paciente boca arriba en un plano duro y con las extremidades alin
 
 ![Fig.2.5. Esquema RCP](img/rcp.png)
 
-
- 
-
 **9\. Llamar a urgencias y comprobar signos de vida**. Si al cabo de un minuto de empezar la RCP, seguimos solos y no hemos podido llamar a urgencias (112), deberemos hacerlo en este momento aunque para ello tengamos que abandonar momentáneamente al niño.
 
 A los 2 minutos deberemos comprobar la eficacia de nuestras maniobras: aparición de signos de vida y/o respiración espontánea.
@@ -106,8 +138,11 @@ A los 2 minutos deberemos comprobar la eficacia de nuestras maniobras: aparició
 *   La víctima recupere la respiración efectiva
     
 *   Estemos exhaustos
-    
 
 Es importante recordar que no es recomendable realizar maniobras de reanimación con el lactante en brazos y en movimiento. Sólo de forma excepcional, podemos movilizar al niño en caso de que nos desplacemos para solicitar ayuda y continuar las maniobras en el otro lugar.
+
+>**info**
+>
+>El 21/10/2020 se publicaron las **nuevas guías AHA 2020** (_2020 CPR&ECC guidelines_) con las nuevas recomendaciones ante una RCP, que integran lo publicado anteriormente: lo importante para ti es que NO se incorporan aspectos específicos respecto a la RCP en el contexto pandémico COVID19 excepto lo referente a la respiración.
 
 {% youtube %}https://youtu.be/XopewSZdwu8{% endyoutube %}

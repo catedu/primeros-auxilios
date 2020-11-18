@@ -1,10 +1,7 @@
 # U2. Reanimación Cardiopulmonar (RCP)
 
 
-![Fig.2.2. Esquema RCP. SEMICYUC, FEEC. Licencia CC BY-NC-SA](img/M2_u2_Renimacion_esquema.jpg)
-
-
- 
+![Fig.2.2. Algoritmo SVB+DEA adaptado a COVID-19. Plan Nacional RCP. SEMICYUC. Licencia CC BY-NC-SA](img/M2_Figura_2.2.jpg)
 
 Te presentamos algo de debes aprender, como profesor, y ante todo, como ciudadano, ya que sabiendo hacer correctamente una RCP, realizada siguiendo unos pasos encadenados correctamente, puedes salvar una vida que, en algunos casos, dependa de tu conocimiento y buena voluntad.
 
@@ -63,9 +60,6 @@ De hecho, es vital iniciar la RCP en los tres primeros minutos después de la pa
 *   Ausencia de signos de vida.
     
 
+Fíjate en la siguiente imagen… piensa qué es lo que añadirías en el momento actual de la pandemia… En efecto, las mascarillas.
 
 ![Fig.2.3. Reanimar. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/reanimar.png)
-
-
- 
-

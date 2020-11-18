@@ -2,55 +2,76 @@
 
 ## Para saber más
 
-#### **Recomendaciones y principales novedades de European resuscitation Council 2015:**
+**Maniobras resucitación cardiopulmonar en el contexto covid-19**
 
-_Nuevo algoritmo RCP pediátrico 2015. Póster 1 y 2_
+Disponible: [https://bit.ly/3lEvdrg](https://bit.ly/3lEvdrg) 
 
-Disponible en: [http://bit.ly/2geIRCq](http://bit.ly/2geIRCq)
+{Consultado: 14/11/2020}
 
-Disponible en: [http://bit.ly/2fHw2wo](http://bit.ly/2fHw2wo)
+**Aspectos Destacados de las Guías de la AMERICAN HEART ASSOCIATION del 2020 PARA RCP Y ACE**
 
-Resumen con esquemas 2015; en la página 43: _soporte vital básico pediátrico_
+Disponible: **[https://bit.ly/2ILN5lD](https://bit.ly/2ILN5lD) **
 
-Disponible en: [http://bit.ly/23W8Pc8](http://bit.ly/23W8Pc8)
+{Consultado: 14/11/2020}
 
-_RCP asistida por teléfono:_
+**Plan Nacional de RCP**
 
-Pediatria, disponible en: [http://bit.ly/2fHpXjL](http://bit.ly/2fHpXjL)
+Disponible: [https://bit.ly/3py6ZRH](https://bit.ly/3py6ZRH) 
 
-Adultos, disponible en: [http://bit.ly/2fHjBRw](http://bit.ly/2fHjBRw)
+{Consultado: 14/11/2020}
 
-{Consultado: 06/12/2016}
+**Comunicado día mundial parada cardiaca 2020**
 
-## **Articulo: RCP básica en pediatría de Atención Primaria.**
+Disponible: [https://bit.ly/2Uz2uYW](https://bit.ly/2Uz2uYW) 
 
-Disponible en: [http://bit.ly/2gRyQfQ](http://bit.ly/2gRyQfQ)
+{Consultado: 14/11/2020}
 
-{Consultado: 06/12/2016}
+**Traducción del original “European Resuscitation Council COVID-19 Guidelines”.**
 
-Aquí el autor explica claramente la relación masaje cardíaco-ventilación de las recomendaciones anteriores.
+Disponible: [https://bit.ly/35zsidH](https://bit.ly/35zsidH) 
 
-## **RCP BÁSICA**
+{Consultado: 14/11/2020}
 
-Disponible en: [https://youtu.be/Z7BKYS_eRkc](https://youtu.be/Z7BKYS_eRkc)
+**Escuela Segoviana de Socorrismo. Actualizaciones Covid-19**
 
-{Consultado: 06/12/2016}
+Disponible: [http://sossegovia.com/covid-19/](http://sossegovia.com/covid-19/)
+
+{Consultado: 14/11/2020}
+
+**RCP BÁSICA**
+
+Disponible en: [https://bit.ly/3npAjIe](https://bit.ly/3npAjIe) 
+
+{Consultado: 10/11/2020}
 
 Duración: 6'49''
 
 Producido dentro del proyecto Urgencias Sanitarias en la escuela, donde se aborda el tratamiento de la parada cardiorrespiratoria.
 
-Éste es uno de los 4 videos correspondiente al extraordinario material (en forma de documento escrito y multimedia) realizados por el Departamento de Salud, Osakidetza y el Departamento de Educación, Política Lingüística y Cultura del Gobierno vasco.
+Éste es uno de los 4 videos correspondiente al extraordinario material (en forma de documento escrito y multimedia) realizados por el Departamento de Salud, Osakidetza y el Departamento de Educación, olítica Lingüística y Cultura del Gobierno vasco. Recuerda las precauciones y los cambios actuales, no presentes en este video anterior a la pandemia.
 
-## **Ritmo RCP:**
+**Ritmo RCP:**
 
-Disponible en: [http://bit.ly/2fxmhpz](http://bit.ly/2fxmhpz)
+Disponible en: [https://bit.ly/3f8gwKl](https://bit.ly/3f8gwKl) 
 
-{Consultado: 06/12/2016}
+{Consultado: 12/11/2020}
 
 Duración: 58''
 
 F. Mendoza sube a Youtube en 2009 este interesante video del grupo de estudiantes de un curso de salvacorazones DEA de la AHA en Tenerife (Islas Canarias).
 
-Las 100 compresiones torácicas por minuto puede marcarse con el ritmo de los Bee Gees - Stayin' Alive (1977).  
+Las 100 compresiones torácicas por minuto puede marcarse con el ritmo de los Bee Gees Stayin' Alive (1977).
 
+Recuerda las precauciones y los cambios actuales, no presentes en este video anterior a la pandemia.
+
+**Adiós al boca a boca: así son el rescate y la reanimación en la era post covid. Consejo General de Enfermería**
+
+Disponible: [https://bit.ly/2Kc6SLr](https://bit.ly/2Kc6SLr) 
+
+{Consultado: 14/11/2020}
+
+**Aragón: Mapas con la ubicación de desfibriladores semiautomáticos**
+
+Disponible: [https://bit.ly/3kCDYAE](https://bit.ly/3kCDYAE) 
+
+{Consultado: 14/11/2020}

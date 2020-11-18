@@ -25,7 +25,6 @@ ____
     * [Asfixia. Atragantamiento](asfixia_atragantamiento.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 
-<!-- 
 ### 2. Posición lateral de seguridad y Reanimación cardiopulmonar 
 * [Posición Lateral de Seguridad y Reanimación Cardiopulmonar](index1.md)
 * [Contenidos](contenidos1.md)
@@ -36,6 +35,7 @@ ____
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
 * [Autoevaluación](autoevaluacin.md)
 
+<!-- 
 ### 3. Atención al alumnado con enfermedades crónicas 
 * [Módulo 3. Atención al alumnado con enfermedades crónicas](index2.md)
 * [Orientaciones](orientaciones2.md)

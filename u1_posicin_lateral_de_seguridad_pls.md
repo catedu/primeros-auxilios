@@ -55,6 +55,3 @@ aspirados a las vías respiratorias y que la lengua las obstruya.
     
 
 **Es recomendable que además** permitasun ambiente aireado, evitando aglomeraciones de personas, sobretodo niños que se acercan a ver y pueden asustarse, consiguiendo de esta manera mejor aireación del espacio en el que está el individuo tumbado.
-
-[Accede a la aventura gráfica de primeros auxilios](http://catedu.es/eadventure/web/primerosauxilios.html)
-
