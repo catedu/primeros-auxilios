@@ -14,4 +14,16 @@ En los **videos** de a continuación puedes comprobar en qué consiste la **téc
 
 **Explicaciones sobre las inyecciones de Adrenalina**
 
-{% youtube %}https://youtu.be/3dm8kleUUXo{% endyoutube %}
+Actualmente están comercializados en España varios formatos para poder administrar la adrenalina con plumas precargadas, con sus peculiaridades específicas de manejo.
+
+1. **¿Cómo se utiliza la adrenalina? SEICAP.**
+
+{% youtube %}https://youtu.be/LDbh_ctKSqM{% endyoutube %}
+
+2. **Manejo del autoinyector de adrenalina. AEPNA.**
+
+{% youtube %}https://youtu.be/C9H2Adjkh7c{% endyoutube %}
+
+3. **Cómo actuar ante una reacción alérgica grave (anafilaxia)? Gobierno de Canarias**
+
+{% youtube %}https://youtu.be/idfHWhGT1nU{% endyoutube %}

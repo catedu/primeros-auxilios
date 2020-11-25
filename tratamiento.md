@@ -3,9 +3,6 @@
 
 ![Fig.3.12. Asma. Documento de Asma en Pediatría. DG Salud Pública](img/M3_12.jpg)
 
-
- 
-
 **1\. Medidas higiénicas**
 
 Alejar al niño de la fuente de alérgenos, respirar por la nariz para calentar y limpiar el aire, realizar ejercicio físico con las recomendaciones oportunas, usar mascarilla en ciertas ocasiones, etc
@@ -17,11 +14,7 @@ Siempre es “a medida”, es decir, dependiendo de la gravedad. **Hay 2 tipos f
 *   **Los que alivian los síntomas**, dilatando los bronquios que están estrechados: son los **broncodilatadores, o de rescate**. Se utilizan en las crisis y en caso de tener síntomas de forma esporádica.
 *   **Los que controlan la enfermedad** disminuyendo la inflamación de los bronquios: son los antiinflamatorios o preventivos. Se utilizan según la gravedad del asma y el grado de control conseguido. Cuando están indicados, hay que seguir tomándolos aunque ya no se tengan los síntomas.
 
-
 ![Fig.3.13. Tratamiento de asma. Documento de Asma en Pediatría. DG Salud Pública](img/M3_13.jpg)
-
-
-   
 
 Para llevar a cabo el tratamiento por vía respiratoria se utilizan unos **dispositivos o inhaladores** que que permiten que pequeñas dosis de fármaco actúen de forma directa en los bronquios, y produzcan menos efectos secundarios. Es importante aprender a realizar una correcta **técnica de inhalación del medicamento**, porque si no el tratamiento es ineficaz.
 

@@ -18,6 +18,8 @@ No es raro que tengas un alumno con asma, alergias, diabetes o algún tipo de c�
 
 Te aconsejamos el **visionado del numeroso material multimedia,** que te ayudará a comprender la mayor parte de los contenidos.
 
+**La Pandemia** también ha afectado al curso de determinadas **enfermedades crónicas**, como es el caso de las alergias o el asma, que también te vamos a relatar para que lo conozcas y minimices tus miedos en el aula. **Revisa la bibliografía,** ya que hemos intentado adjuntarte los documentos y referencias más novedosas y prácticas, tanto a nivel general del curso como particular de cada enfermedad y su relación con el virus SARS-CoV-2.
+
 {% youtube %}https://youtu.be/UZVLFpWDhoM{% endyoutube %}
 
 ## Objetivos

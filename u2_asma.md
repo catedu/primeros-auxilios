@@ -14,3 +14,7 @@ Te ofrecemos **numerosos recursos** a través de enlaces para descargarte materi
 
 **Es una de las unidades más sencillas** de este módulo, por lo que te deseamos que la disfrutes. ¿Empezamos?
 
+>**danger**
+>
+>Las personas que tienen asma deben tomar precauciones como ocurre con cualquier otra infección respiratoria comunitaria, como es la gripe. Actualmente no hay evidencia de que los escolares con asma tengan un mayor riesgo para tener Covid-19
+

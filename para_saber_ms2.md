@@ -26,11 +26,11 @@ En la web aparece un video de 16:44" donde un personaje de Barrio Sésamo (Sesam
 
 ## Protocolo de asma en la escuela
 
-Disponible:
+Editado por la Sociedad Española de Alergología e Inmunología clínica (SEAIC)
 
-[http://www.seaic.org/pacientes](http://www.seaic.org/pacientes)
+Disponible en:  [https://bit.ly/3pPfc46](https://bit.ly/3pPfc46) 
 
-Web de la Sociedad Española de Alergología e Inmunología clínica (SEAIC), con una gran variedad de contenidos, entre los que aquí destacamos sobre el protocolo de asma en la escuela, que ha visto la luz en octubre de 2013. El Comité de Alergia Infantil de la SEAIC ha elaborado este protocolo para facilitar el tratamiento de las crisis asmáticas de los niños en los centros educativos, con el objetivo es colaborar con los profesores en el control integral de los niños con asma.
+Consultado el: {20/11/2020}
 
 ## Falsos mitos sobre el deporte en niños asmáticos
 
@@ -40,13 +40,13 @@ Disponible:
 
 Desde la web de la SEAIC podemos descargar este documento en forma de tríptico, que vierte información sobre el deporte, ya que no sólo no es contraproducente, sino que resulta saludable para los niños que padecen asma. La actividad física mejora el desarrollo del niño y la condición física, ayudando a disminuir la intensidad de las crisis asmáticas.
 
-## Gema para pacientes
+## Gema 5.0.
 
-Disponible:
+Guía Española para el Manejo del Asma.
 
-[http://bit.ly/2goY6Xl](http://bit.ly/2goY6Xl)
+Disponible en: [http://www.gemasma.com/](http://www.gemasma.com/) 
 
-Web de la Guía Española para el Manejo del Asma, en la que se puede descargar esta información, que aporta información interesante para saber más del asma en general en un formato muy atractivo. La información que ofrece este documento "Gema para pacientes" va dirigida a la población en general, a las personas afectadas de asma, a sus padres y familiares, con el fin de contribuir al un mayor conocimiento mejor conocimiento de la enfermedad.
+Consultado el: {20/11/2020}
 
 ## Mi asma
 
@@ -100,4 +100,20 @@ Producido dentro del proyecto Urgencias Sanitarias en la escuela, donde se abord
 
 Éste es uno de los 4 videos correspondiente al extraordinario material (en forma de documento escrito y multimedia) realizados por el Departamento de Salud, Osakidetza y el Departamento de Educación, Política Lingüística y Cultura del Gobierno vasco.
 
+## Consejos sobre asma en tiempos de Covid-19. Asociación Española de Pediatría en Atención Primaria (AEPaP). 2020
 
+Disponible en:  [https://bit.ly/2Hv7LOn](https://bit.ly/2Hv7LOn) 
+
+Consultado el: {20/11/2020}
+
+## Documentos de recomendaciones durante la pandemia en niños con alergias y asma. SEICAP.
+
+Disponible en:  [https://bit.ly/2UPrOtE](https://bit.ly/2UPrOtE) 
+
+Consultado el: {19/11/2020}
+
+## Evaluación del riesgo de la transmisión del SARS-Cov-2 mediante aerosoles. Medidas de prevención y recomendaciones. Ministerio de Sanidad. 18/11/2020.
+
+Disponible en:  [https://bit.ly/3fqsNKz](https://bit.ly/3fqsNKz) 
+
+Consultado el: {20/11/2020}

@@ -24,8 +24,6 @@
 *   Se debe **vigilar continuamente al niño y organizar el traslado** al servicio de urgencias hospitalario más cercano, independientemente del tratamiento administrado la medicación o de una aparente vuelta a la normalidad.
 *   No se debe enviar al niño a su domicilio
 
-**Al iniciar el curso debes consultar los protocolos para saber qué tienes que hacer. revisa el Protocolo de actuación ante una crisis alérgica en la escuela, que lo tienes en tus recursos de la unidad.**[  
-](http://bit.ly/1dxZ9A6)
+**Al iniciar el curso debes consultar los protocolos para saber qué tienes que hacer: revisa el Protocolo de actuación ante una crisis alérgica en la escuela, que lo tienes en tus recursos de la unidad.**
 
 Te recomendamos que veas los **videos referentes a la anafilaxia que** tienes en la documentación.
-

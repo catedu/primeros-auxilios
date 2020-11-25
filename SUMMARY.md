@@ -34,8 +34,7 @@ ____
 		* [Desfibrilador](desfibrilador.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
 * [Autoevaluación](autoevaluacin.md)
-
-<!-- 
+ 
 ### 3. Atención al alumnado con enfermedades crónicas 
 * [Módulo 3. Atención al alumnado con enfermedades crónicas](index2.md)
 * [Orientaciones](orientaciones2.md)
@@ -104,6 +103,7 @@ ____
 		* [Recursos](recursos.md)
 		* [Para saber más](para_saber_ms9.md)
 
+<!--
 ### 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones 
 * [Módulo 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones](index3.md)
 * [Contenidos](contenidos3.md)

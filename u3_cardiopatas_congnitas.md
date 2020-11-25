@@ -14,5 +14,9 @@ Seguramente sientas inseguridad y miedo si te dicen que vas a tener un niño con
 
 **Hemos dividido esta unidad** de una manera muy sencilla, ya que lo que perseguimos es la resolución de dudas, conociendo en unas pinceladas qué son las cardiopatías congénitas y sus tipos, así como la escolarización del niño, su absentismo escolar y el ejercicio físico, como apartados fundamentales.
 
+>**info**
+>
+>Los niños y niñas con cardiopatías leves no tienen un mayor riesgo para tener complicaciones derivadas del coronavirus y siempre es necesario conocer la situación previa, como ocurre en todos los pacientes en general, antes de su infección. Las evidencias actuales muestran que las personas con cardiopatía no tienen una mayor incidencia de Covid-19.
+
 **Te animamos a reflexionar** a través de los recursos que te aportamos, en especial los de tipo multimedia. ¡Ánimo, seguro que te gusta!
 

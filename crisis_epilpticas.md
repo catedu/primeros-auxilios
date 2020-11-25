@@ -1,10 +1,6 @@
 # Crisis epilépticas
 
-
 ![Fig.3.35. Tumbarse boca arriba. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/M3_35.png)
-
-
- 
 
 Una vez que conoces qué son, queremos que comprendas los siguientes detalles importantes.
 
@@ -52,10 +48,10 @@ El llamado **"foco epiléptico"** es la zona de las neuronas irritadas donde se 
 
 ## Importante
 
-*   Las crisis epilépticas son la manifestación de la epilepsia
-*   Se deben a una excesiva actividad eléctrica en un grupo de neuronas
-*   Existen numerosos factores que pueden ayudar a desencadenar una crisis
-*   Las crisis focales pueden acompañarse o no de pérdida de conocimiento
-*   En las crisis parciales es típico: mirada perdida, caminar sin rumbo, masticar, hablar confuso, temblores, movimientos torpes
-*   Las crisis generalizadas se acompañan de pérdida de conocimiento, y además: convulsiones, contracción o relajación de la musculatura
-
+* Las crisis epilépticas son la manifestación de la epilepsia
+* Se deben a una excesiva actividad eléctrica en un grupo de neuronas
+* Existen numerosos factores que pueden ayudar a desencadenar una crisis
+* Las crisis focales pueden acompañarse o no de pérdida de conocimiento
+* En las crisis parciales es típico: mirada perdida, caminar sin rumbo, masticar, hablar confuso, temblores, movimientos torpes
+* Las crisis generalizadas se acompañan de pérdida de conocimiento, y además: convulsiones, contracción o relajación de la musculatura
+* Actúa siempre siguiendo las medidas básicas de prevención ante el Covid-19 que ya conoces

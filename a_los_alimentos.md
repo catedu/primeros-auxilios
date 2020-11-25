@@ -27,7 +27,7 @@ Es importante que sepas que los **síntomas** que puede tener un **niño alérgi
 *   Como puedes imaginar, el mejor es evitar el alimento que produce la alergia, por lo que es muy importante leer los etiquetados de muchos alimentos elaborados, por si aparece oculto.
 *   El médico habrá puesto en la Ficha del escolar con asma, o documento similar, qué es lo que hay que hacer en estos casos, de ahí la importancia de mantener una comunicación fluida entre los padres, el peronal sanitario y el centro escolar.
 
-Es importante que sepas que según la **"Guía de comedores escolares de la Comunidad Autónoma de Aragón"** se hace mención a la situación de un niño que puede presentar una alergia alimentaria, por lo que es aconsejable que la veas, ya que ha sido presentada en el año 2013.
+En la **"Guía de comedores escolares de la Comunidad Autónoma de Aragón"** se hace mención a la situación de un niño que puede presentar una alergia alimentaria, por lo que es aconsejable que la consultes. Fue presentada en el año 2013 y actualmente está en proceso de actualización.
 
 El niño con alergia a los alimentos no debería ser tratado de forma diferente al resto de niños de la clase al asistir a celebraciones, excursiones o campamentos de verano. 
 
