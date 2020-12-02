@@ -103,7 +103,6 @@ ____
 		* [Recursos](recursos.md)
 		* [Para saber más](para_saber_ms9.md)
 
-<!--
 ### 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones 
 * [Módulo 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones](index3.md)
 * [Contenidos](contenidos3.md)
@@ -114,6 +113,6 @@ ____
 	* [U3. Instrucciones, procedimientos, etc](u3_instrucciones_procedimientos_etc.md)
 	* [Para saber más](para_saber_ms3.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
--->
+
 ___
 * [Créditos](crditos.md)

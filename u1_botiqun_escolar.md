@@ -1,10 +1,6 @@
 # U1. Botiquín escolar
 
-
 ![Fig.4.2. Botiquín. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M4_2.png)
-
-
-
 
 El centro docente ha de tener un **botiquín de contenidos básicos****,** para **poder atender** a las necesidades de sus alumnos en temas relacionados con la salud (**primeros auxilios**).
 
@@ -51,6 +47,7 @@ También es importante destacar la conveniencia de que exista una **guía de act
 *   Compresas desechables.
 *   Tabletas de glucosa.
 
+**Se pueden incluir, por la situación de pandemia, varias mascarillas debidamente protegidas, tanto infantiles como de adulto.**
 ## Importante
 
 - El botiquín escolar debe estar situado en un lugar conocido por todos, con una persona del Equipo Directivo que tenga entre sus funciones el mantenimiento interno y externo del mismo

@@ -1,5 +1,6 @@
 # U3. Instrucciones, procedimientos, etc
 
+No se incluyen en esta sección las situaciones derivadas de Infección por SARS-CoV-2 ni de enfermedad por Covid-19, ya que atienden a los objetivos de otro curso, no planteados en éste que estamos realizando.
 ### **ADMINISTRACIÓN DE MEDICAMENTOS**
 
 
