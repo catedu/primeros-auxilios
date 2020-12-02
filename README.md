@@ -8,4 +8,4 @@ Respondiendo a la necesidad de dotar al profesorado de una información actualiz
 
 Además, por la actual situación de la pandemia creada por la enfermedad infecciosa **COVID-19,** hemos **actualizado las actuaciones** que se deben llevar a cabo atendiendo a las últimas recomendaciones publicadas en cada contexto. Debido al escenario de **transmisión actual del virus SARS-CoV-2** deben cumplirse las medidas básicas de protección e higiene para controlar la transmisión y garantizar una respuesta adecuada por nuestra parte al atender a la población en general y a nuestro alumnado en particular, asegurando la máxima protección y eficacia.
 
-![Logo del Curso](img/hospital.svg)
+![Logo del Curso](img/hospital.png)
