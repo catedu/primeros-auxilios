@@ -22,7 +22,7 @@
 
 **Lo que tienes que hacer es:**
 
-*   Tranquilizarte tú, y tranasmitir esa calma al niño
+*   Tranquilizarte tú, y transmitir esa calma al niño
 *   Haz que el niño no se mueva, para que con el movimiento no se pierda más sangre
 *   Utiliza guantes
 *   La presión sobre la herida hará de tapón, impidiendo la mayor salida de sangre
@@ -46,7 +46,7 @@
 ![Fig.1.11. Presión en nariz con hemorragia. Madrid2011jmj. Foter.com. CC BY-NC-SA](img/hemorragia.jpg)
 
 
-*   Si es una herida que penetra en **tórax o en abdomen**
+*   Si es una herida que penetra en **tórax o en abdomen**:
     
     *   Cubre la herida con gasas ejerciendo presión y avisar al 112
         
