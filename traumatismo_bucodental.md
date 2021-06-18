@@ -6,7 +6,7 @@ La **pieza dentaria** que más frecuentemente se afecta es, en orden de frecuenc
 
 **Las causas que los producen suelen ser:**
 
-Caídas al suelo, por las escaleras, al jugar en el patio, chocar contra otros compañeros u objetos, accidentes en vehículos y al realizar deportes... ( no podemos olvidar el maltrato, en ciertas ocasiones)
+Caídas al suelo, por las escaleras, al jugar en el patio, chocar contra otros compañeros u objetos, accidentes en vehículos y al realizar deportes... (no podemos olvidar el maltrato, en ciertas ocasiones)
 
 **Se puede producir tras el traumatismo:**
 
@@ -20,7 +20,7 @@ Caídas al suelo, por las escaleras, al jugar en el patio, chocar contra otros c
     *   Limpia suavemente la boca, pudiendo utilizar antiséptico bucal
     *   Si ves que hay hinchazón en la zona, aplica frío local
 *   En caso de **traumatismo dental en dientes permanente**s (en niños mayores de 6 años)
-    *   Localiza el diente y cógelo ¿ojo no de cualquier forma!, evitando que se lo trague
+    *   Localiza el diente y cógelo ¡ojo, no de cualquier forma!, evitando que se lo trague
     *   Tócalo sólo por la zona de la corona
 
 
