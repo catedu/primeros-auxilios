@@ -8,7 +8,7 @@
 
 La **herida** es una pérdida de continuidad en la piel, "solución de continuidad", que posibilita la entrada de microorganismos en el cuerpo, con el consiguiente riesgo de infección. Esta infección puede ser superficial, o extendese a zonas más profundas, lo que supone una complicación que debemos prevenir.
 
-Existen **muchas clasificaciones** de las heridas: superficiales y profundas, sinples y complicadas (por mordedura humana/de animales, con cuerpos extraños, infectadas...), según la causa que las produce (contusas, punzantes, contusas, laceraciones, amputaciones...).
+Existen **muchas clasificaciones** de las heridas: superficiales y profundas, simples y complicadas (por mordedura humana/de animales, con cuerpos extraños, infectadas...), según la causa que las produce (contusas, punzantes, contusas, laceraciones, amputaciones...).
 
 **Se producen por varias** causas, siendo las más frecuentes:
 
