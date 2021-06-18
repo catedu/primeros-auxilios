@@ -6,8 +6,8 @@
 **Quemaduras eléctricas:**
 
 1.  Valoración médica siempre de inmediato. **La gravedad de la lesión interna no se corresponde con la lesión externa.**
-2.  Si el alumno está en contacto con la red eléctrica: separarla de la misma con un objeto no conductor (madera).
-3.  Explorarlo: aplicar medidas de soporte vital indicadas:(las aprenderás en el Módulo 2)
+2.  Si el estudiante está en contacto con la red eléctrica: separarle de la misma con un objeto no conductor (madera).
+3.  Explorarlo: aplicar medidas de soporte vital indicadas (las aprenderás en el Módulo 2):
     1.  Inconsciente con funciones vitales preservadas: posición lateral de seguridad.
     2.  Funciones vitales alteradas: maniobras de Reanimación 
 
@@ -38,9 +38,9 @@ Producidas por el contacto de la piel o mucosas con una sustancia cáustica.
 
 *   Precisa siempre de una valoración médica urgente
 *   **Regla de los “15”**:
-    *   Enfriar con agua a unos 15º
-    *   durante 15 minutos
-    *   a una distancia lesión-agua de 15 cm.
+    *   Enfríar con agua a unos 15º
+    *   Durante 15 minutos
+    *   A una distancia lesión-agua de 15 cm.
     *   Tapar con compresa húmeda.
 
 **Quemaduras por el rayo:**  
