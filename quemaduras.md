@@ -29,8 +29,8 @@
 **Qué debes hacer inicialmente:**
 
 1.  **Elimina la causa** que la ha originado.
-2.  Lo más adecuado sería **quitarle**, en caso de que sea necesario, la **ropa** que lleve en la zona quemada, **anillos** u otros objetos, **siempre que la piel no se haya roto**
-3.  Enfriar la quemadura:dejar correr el agua fría durante unos minutos (10-20)
+2.  Lo más adecuado sería **quitarle**, en caso de que sea necesario, la **ropa** que lleve en la zona quemada, **anillos** u otros objetos, **siempre que la piel no se haya roto**. Es muy importante que **si la ropa está adherida no debe retirarse**
+3.  Enfriar la quemadura: dejar correr el agua fría durante unos minutos (10-20)
 4.  También se pueden utilizar compresas frías o cualquier sistema que enfríe el área.
 5.  Cubrir con una compresa húmeda.
 
