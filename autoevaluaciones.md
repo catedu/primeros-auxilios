@@ -4,7 +4,7 @@
 
 <quiz name="">
 	<question>
-		<p>Ante una intoxicación provocaremos el vómito sólamente si sospechamos la ingesta de productos disolventes y caústicos.</p>
+		<p>Ante una intoxicación provocaremos el vómito solamente si sospechamos la ingesta de productos disolventes y cáusticos.</p>
 		<answer>Verdadero</answer>
 		<answer correct>Falso</answer>
 	</question>
@@ -47,11 +47,11 @@
 		<answer correct>Clorhexidina o povidona yodada</answer>
 	</question>
 	<question>
-		<p>Una niña se ha dado un choque con la cabeza de otra niña jugando. Le sangra la nariz por un orifício. ¿Qué harías?</p>
+		<p>Una niña se ha dado un choque con la cabeza de otra niña jugando. Le sangra la nariz por un orificio. ¿Qué harías?</p>
 		<answer>Le diría que inclinara la cabeza hacia detrás, para que sangrara menos</answer>
 		<answer>Le diría que inclinara la cabeza hacia detrás, y levantara el brazo del mismo lado</answer>
 		<answer correct>Le comprimiría la fosa nasal que sangra, al menos 10 minutos</answer>
-		<answer>Le comprimiría la s dos fosas nasales, al menos 10 minutos</answer>
+		<answer>Le comprimiría las dos fosas nasales, al menos 10 minutos</answer>
 		<answer>Le comprimiría la fosa nasal que sangra, inclinando la cabeza hacia delante al máximo al menos 10 minutos</answer>
 	</question>
 	<question>
