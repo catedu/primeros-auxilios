@@ -17,7 +17,7 @@ La **fractura** significa una rotura ósea, pudiendo existir varios tipos.
 *   Tranquiliza al niño
 
 *    **Traumatismo en la cabeza.**
-    *   Si el **golpe** pensamos que ha sido **importante**, y llega a desmayarse el niño, sangra por la nariz u oído, vomita, tiene dolor que cabeza con carácter progresivo o muy intenso o se comporta de forma rara, avisa al 112
+    *   Si el **golpe** pensamos que ha sido **importante**, y llega a desmayarse el niño, sangra por la nariz u oído, vomita, tiene dolor que cabeza con carácter progresivo o muy intenso o se comporta de forma rara, avisa al 061
     *   Avisa si hay algo que te preocupa
     *   Si el golpe sólo produce un chichón, dolor local, algo de dolor... aplica frío local.
     
