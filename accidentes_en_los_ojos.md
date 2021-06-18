@@ -41,9 +41,9 @@
         
     *   Si buscas el cuerpo extraño en el **párpado superior,** sepáralo del ojo e intenta retirarlo con una gasa estéril
         
-*   Si era líquido lo que irritó el ojo, lávalo abundantemente con suero fisiológico; si se tratba de un producto químico o peligroso que ha producido una quemadura, lávalo, tápalo con una gasa empapada en suero, sin presionar y llama al 112.
+*   Si era líquido lo que irritó el ojo, lávalo abundantemente con suero fisiológico; si se trataba de un producto químico o peligroso que ha producido una quemadura, lávalo, tápalo con una gasa empapada en suero, sin presionar y llama al 112.
     
-*   Si el cuerpo extraño está clavo en el ojo, no lo intentes manipular, llama al 112.
+*   Si el cuerpo extraño está clavado en el ojo, no lo intentes manipular, llama al 112.
     
 *   Informa a los padres de lo que ha ocurrido
     
