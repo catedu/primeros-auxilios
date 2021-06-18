@@ -19,8 +19,8 @@ Como es uno de los accidentes más peligrosos, es importante que sepa qué tiene
 *   **De contacto:**
     *   Ponte guantes antes de tocarlo
     *   Quítale la ropa
-    *   Lávalo en la ducha con agua a chorro no menos de 20 minutos, procurando que la temperatura del agua no esté ni muy fría ni muy caliente
-    *   Si te quedas preocupado, avisa al 112
+    *   Lávalo en la ducha con agua a chorro, no menos de 20 minutos, procurando que la temperatura del agua no esté ni muy fría ni muy caliente
+    *   Si te quedas preocupado, avisa al 061
 
 *   **Por inhalación:**
     *   Ventila bien la zona en la que se encuentre
@@ -32,7 +32,7 @@ Como es uno de los accidentes más peligrosos, es importante que sepa qué tiene
 
 *   **Digestiva**
     *   Fíjate en el tóxico que es
-    *   Llama al teléfono de **información toxicológica : 915620420** (Seguro que lo tienes en la agenda de tu móvil, ¿verdad?)
+    *   Llama al teléfono de **información toxicológica: 915620420** (Seguro que lo tienes en la agenda de tu móvil, ¿verdad?)
     *   Sigue las instrucciones que te digan
 
 >**danger**
