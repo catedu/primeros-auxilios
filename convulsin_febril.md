@@ -7,8 +7,8 @@
  
 
 *   **Es una convulsión que se acompaña de fiebre (al menos 38 ºC)**
-*   Más frecuente en los niños entre 6 meses - 5 años de edad
-*   Suele aparecer en las 24 horas primeras de l cuadro febril, y en este misma situación no suele repetirse la convulsión
+*   Más frecuente en los niños entre 6 meses y los 5 años de edad
+*   Suele aparecer en las 24 horas primeras del cuadro febril, y en este misma situación no suele repetirse la convulsión
 
 ## Importante
 
