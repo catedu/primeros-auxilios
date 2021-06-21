@@ -55,7 +55,7 @@ Si **existen dudas,** recurriremos a los servicios sanitaros, siguiendo las indi
 
 Y algo importante: hay que **informar a la familia o tutor legal** de la actuación por parte del tutor.
 
-Por todos estos detalles, queremos que comprendas cómo se justifica que **al principio del curso escolar** todo **el personal del centro conozca** dónde se localiza el **botiquín**, **y las Instrucciones relativas a la atención educativa al alumnado** con enfermedades crónicas, así como la **intervención en situaciones de urgencia y emergencia** en los centros docentes de la Comunidad Autónoma de Aragón (publicado en noviembre de 2017), que te estamos explicando a lo largo de este curso y que puedes consultar en el apartado “para saber más”, ya que estas instrucciones dejan sin efecto a la Resolución de 16 de marzo de 2015, que diactaba otras instrucciones.
+Por todos estos detalles, queremos que comprendas cómo se justifica que **al principio del curso escolar** todo **el personal del centro conozca** dónde se localiza el **botiquín**, **y las Instrucciones relativas a la atención educativa al alumnado** con enfermedades crónicas, así como la **intervención en situaciones de urgencia y emergencia** en los centros docentes de la Comunidad Autónoma de Aragón (publicado en noviembre de 2017), que te estamos explicando a lo largo de este curso y que puedes consultar en el apartado “para saber más”, ya que estas instrucciones dejan sin efecto a la Resolución de 16 de marzo de 2015, que dictaba otras instrucciones.
 
 **Emergencia:** es una situación de salud que se presenta repentinamente y requiere atención o tratamiento de forma inmediata. Si no se atiende, lleva implícita una alta probabilidad de riesgo para la vida.
 
