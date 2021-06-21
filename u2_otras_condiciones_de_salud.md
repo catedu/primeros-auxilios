@@ -45,6 +45,6 @@ La causa de los TCA es biopsicosocial, porque intervienen factores biológicos, 
 *   **Es importante la colaboración con asociaciones, como en el caso de Aragón, la asociación Arbada, que ha editado un audiovisual :** "Comer bien, verse mejor", adolescencia y alimentación: Prevención de trastornos de la conducta alimentaria en adolescentes.
 *   Dura 6 minutos y sirve para utilizarse como material DVD para prevenir los trastornos de la conducta alimentaria en los adolescentes y por medio de imágenes cotidianas ayudar a asimilar el crecimiento y los cambios durante la adolescencia.
 
-## Pregunta Verdadero-Falso
+<!-- ## Pregunta Verdadero-Falso
 
-<quiz name=""><question><p>A las personas anoréxicas no les gusta la comida por un gen ligado al cromosoma X. esta predisposición genética hace que cada ciertas generaciones en una familia haya al menos una persona con anorexia nerviosa. Al ser ligada al sexo, suelen ser mujeres. De ahí que la anorexia no tenga actualmente curación, al contrario que la bulimia</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz>
+<quiz name=""><question><p>A las personas anoréxicas no les gusta la comida por un gen ligado al cromosoma X. esta predisposición genética hace que cada ciertas generaciones en una familia haya al menos una persona con anorexia nerviosa. Al ser ligada al sexo, suelen ser mujeres. De ahí que la anorexia no tenga actualmente curación, al contrario que la bulimia</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz> -->

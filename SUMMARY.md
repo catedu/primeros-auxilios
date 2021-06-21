@@ -19,7 +19,7 @@ ____
     * [Traumatismo bucodental](traumatismo_bucodental.md)
     * [Caídas, golpes, fracturas](cadas_golpes_fracturas.md)
     * [Intoxicaciones](intoxicaciones.md)
-    * [Autoevaluaciones](autoevaluaciones.md)
+    <!-- * [Autoevaluaciones](autoevaluaciones.md) -->
   * [U2. Primeros auxilios](u2_primeros_auxilios.md)
     * [Pasos secuenciales](pasos_secuenciales.md)
     * [Asfixia. Atragantamiento](asfixia_atragantamiento.md)
@@ -33,7 +33,7 @@ ____
 		* [Que pasos debemos seguir](que_pasos_debemos_seguir.md)
 		* [Desfibrilador](desfibrilador.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
-* [Autoevaluación](autoevaluacin.md)
+<!-- * [Autoevaluación](autoevaluacin.md) -->
  
 ### 3. Atención al alumnado con enfermedades crónicas 
 * [Módulo 3. Atención al alumnado con enfermedades crónicas](index2.md)
@@ -48,58 +48,58 @@ ____
 		* [Anafilaxia ¡actúa!](anafilaxia_acta.md)
 		* [El autoinyector de adrenalina](el_autoinyector_de_adrenalina.md)
 		* [Para saber más](para_saber_ms.md)
-		* [Autoevaluación](autoevaluacin2.md)
+		<!-- * [Autoevaluación](autoevaluacin2.md) -->
 	* [U2. Asma](u2_asma.md)
 		* [Qué es el asma, causas, síntomas](qu_es_el_asma_causas_sntomas.md)
-		* [Autoevaluación](autoevaluacin22.md)
+		<!-- * [Autoevaluación](autoevaluacin22.md) -->
 		* [Factores desencadenantes](factores_desencadenantes.md)
 		* [Tratamiento](tratamiento.md)
 		* [Crisis de asma: ¡actúa!](crisis_de_asma_acta.md)
-		* [Autoevaluación](autoevaluacin3.md)
+		<!-- * [Autoevaluación](autoevaluacin3.md) -->
 		* [Deporte](deporte.md)
 		* [Asma inducida por ejercicio](asma_inducida_por_ejercicio.md)
 		* [En la escuela](en_la_escuela.md)
 		* [Para saber más](para_saber_ms2.md)
-		* [Autoevaluación](autoevaluacin4.md)
+		<!-- * [Autoevaluación](autoevaluacin4.md) -->
 	* [U3. Cardiopatías congénitas](u3_cardiopatas_congnitas.md)
 		* [Qué son las cardiopatías congénitas](qu_son_las_cardiopatas_congnitas.md)
 		* [El tratamiento](el_tratamiento.md)
-		* [Autoevaluación](autoevaluacin5.md)
+		<!-- * [Autoevaluación](autoevaluacin5.md) -->
 		* [Para saber más](para_saber_ms31.md)
 		* [En la escuela](en_la_escuela2.md)
-		* [Autoevaluación](autoevaluacin6.md)
+		<!-- * [Autoevaluación](autoevaluacin6.md) -->
 		* [La actividad física](la_actividad_fsica.md)
-		* [Autoevaluación](autoevaluacin7.md)
+		<!-- * [Autoevaluación](autoevaluacin7.md) -->
 		* [Aulas hospitalarias](aulas_hospitalarias.md)
-		* [Autoevaluación](autoevaluacin8.md)
+		<!-- * [Autoevaluación](autoevaluacin8.md) -->
 		* [Para saber más](para_saber_ms4.md)
 	* [U4. Diabetes](u4_diabetes.md)
 		* [¿Qué es la diabetes?](qu_es_la_diabetes.md)
 		* [Autoevalucación](autoevalucacin.md)
 		* [Para saber más](para_saber_ms5.md)
 		* [Ejercicio físico](ejercicio_fsico.md)
-		* [Autoevaluación](autoevaluacin9.md)
+		<!-- * [Autoevaluación](autoevaluacin9.md) -->
 		* [Alimentación](alimentacin.md)
-		* [Autoevaluación](autoevaluacin10.md)
+		<!-- * [Autoevaluación](autoevaluacin10.md) -->
 		* [Para saber más](para_saber_ms6.md)
 		* [Autocontroles](autocontroles.md)
-		* [Autoevaluación](autoevaluacin11.md)
+		<!-- * [Autoevaluación](autoevaluacin11.md) -->
 		* [Para saber más](para_saber_ms7.md)
 		* [Hiperglucemia](hiperglucemia.md)
-		* [Autoevaluación](autoevaluacin12.md)
+		<!-- * [Autoevaluación](autoevaluacin12.md) -->
 		* [Hipoglucemia](hipoglucemia.md)
-		* [Autoevaluación](autoevaluacin13.md)
+		<!-- * [Autoevaluación](autoevaluacin13.md) -->
 		* [Para saber más](para_saber_ms8.md)
 	* [U5. Epilepsia](u5_epilepsia.md)
 		* [¿Qué es la epilepsia?](qu_es_la_epilepsia.md)
-		* [Autoevaluación](autoevaluacin14.md)
+		<!-- * [Autoevaluación](autoevaluacin14.md) -->
 		* [Crisis epilépticas](crisis_epilpticas.md)
-		* [Autoevaluación](autoevaluacin15.md)
+		<!-- * [Autoevaluación](autoevaluacin15.md) -->
 		* [Crisis epilépticas: actuación](crisis_epilpticas_actuacin.md)
 		* [Tratamiento farmacológico](tratamiento_farmacolgico.md)
-		* [Autoevaluación](autoevaluacin16.md)
+		<!-- * [Autoevaluación](autoevaluacin16.md) -->
 		* [En la escuela](en_la_escuela3.md)
-		* [Autoevaluación](autoevaluacin17.md)
+		<!-- * [Autoevaluación](autoevaluacin17.md) -->
 		* [Recursos](recursos.md)
 		* [Para saber más](para_saber_ms9.md)
 

@@ -54,8 +54,8 @@ También es importante destacar la conveniencia de que exista una **guía de act
 
 - Los teléfonos de urgencia necesarios estarán junto al botiquín, y en los lugares que se estime oportuno
 
-## Pregunta Verdadero-Falso
+<!-- ## Pregunta Verdadero-Falso
 
-<quiz name=""><question><p>Respecto al botiquín médico debe tener, entre otras, la medicación de urgencia necesaria para atender al alumno con enfermedades crónicas, como, por ejemplo, el glucagón para una hipoglucemia grave</p><answer>Verdadero</answer><answer correct>Falso</answer></question><question><p>El desinfectante ideal para su utilización por su comodidad es el Betadine® ya que es ampliamente conocido por todas las personas.</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz>
+<quiz name=""><question><p>Respecto al botiquín médico debe tener, entre otras, la medicación de urgencia necesaria para atender al alumno con enfermedades crónicas, como, por ejemplo, el glucagón para una hipoglucemia grave</p><answer>Verdadero</answer><answer correct>Falso</answer></question><question><p>El desinfectante ideal para su utilización por su comodidad es el Betadine® ya que es ampliamente conocido por todas las personas.</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz> -->
 
 

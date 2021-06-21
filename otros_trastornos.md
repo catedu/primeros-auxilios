@@ -47,7 +47,7 @@ Lógicamente, las **complicacione**s se relacionan con alteraciones en el metab
 
 **Con estas claves, tú, como docente,** quizá puedas intuir si algún adolescente en tu aula o centro escolar esté iniciando algún comportamiento de este tipo. ¿Qué opinas?
 
-## Pregunta Verdadero-Falso
+<!-- ## Pregunta Verdadero-Falso
 
-<quiz name=""><question><p>Respecto a la ortorexia:un docente no se puede dar cuenta de que uno de sus alumnos adolescentes tiene este trastorno mental, ya qu es típico que la mayor parte de nuestros jóvenes hagan una vida sana, con ejercicio y buena comida. Todas las personas que son modelos serían ortoréxicas</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz>
+<quiz name=""><question><p>Respecto a la ortorexia:un docente no se puede dar cuenta de que uno de sus alumnos adolescentes tiene este trastorno mental, ya qu es típico que la mayor parte de nuestros jóvenes hagan una vida sana, con ejercicio y buena comida. Todas las personas que son modelos serían ortoréxicas</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz> -->
 
