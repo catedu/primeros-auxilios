@@ -37,7 +37,7 @@ Fíate en estos puntos, que nos acercan a entender el **comportamiento** de la
 *   Pasar más de 3 horas diarias pensando en cómo comer una alimentación sana
 *   Obsesión compulsiva por comer alimentos naturales
 *   Excluir de la alimentación grasas, alimentos que se han tratado con herbicidas, etc 
-*   Preocupacón excesiva por la calidad del alimento que por comerlo
+*   Preocupación excesiva por la calidad del alimento que por comerlo
 *   Disminución progresiva de la calidad de vida debido a su dependencia a la calidad del alimento
 *   No se salta jamás las normas de su alimentación
 *   Aislamiento social por su comportamiento

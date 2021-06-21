@@ -34,7 +34,7 @@ Un niño inconsciente suele ser incapaz de mantener abierta y permeable la vía 
     *   Se coloca una mano sobre la frente, realizando una extensión moderada del cuello en niños y neutra en lactantes, y con la punta de los dedos de la otra mano se levanta el mentón. Se debe evitar cerrar la boca o empujar los tejidos blandos debajo del mentón.
 
 *   **Tracción de la mandíbula:**
-    *   Se efectúa esta maniobra si se sospecha traumatismo craneocervical, donde la maniobra frente-mentón esta contraindicada.
+    *   Se efectúa esta maniobra si se sospecha traumatismo craneocervical, donde la maniobra frente-mentón está contraindicada.
     *   Como reanimador, traccionas la mandíbula hacia arriba, teniendo cuidado de mantener inmovilizada la columna cervical con alineación de cabeza-cuello.
     *   La maniobra consiste en tirar hacía arriba de la mandíbula con una mano mientras se sujeta la cabeza con la otra para impedir que la columna se desplace en cualquier dirección.
 
@@ -56,8 +56,9 @@ Mientras mantienes la postura de apertura de vía aérea con ambas manos, acerca
 
 Manteniendo las manos sobre la frente y mentón, para conseguir una buena columna de aire, se realizan **5 insuflaciones seguidas** con el aire espirado del reanimador.
 
-*   Si se esta reanimando a un **lactante,** se debe abarcar la boca y nariz del paciente con la boca del reanimador. 
+*   Si se está reanimando a un **lactante,** se debe abarcar la boca y nariz del paciente con la boca del reanimador. 
 *   Si se trata de un **niño mayor,** la ventilación se realiza boca a boca pero sellando los orificios nasales con los dedos.
+*   En niños menores de 1 año no debe hacerse la hiperextensión
 
 Mientras se realizan estas primeras insuflaciones, se debe de observar como asciende y desciende el tórax. Las insuflaciones deben de **ser lentas (1 a 1.5 seg.)**, observando la expansión del tórax mientras se ventila.
 
@@ -69,15 +70,9 @@ Mientras se realizan estas primeras insuflaciones, se debe de observar como asci
 
 **7º Comprobar pulso. ("C" de circulación)**
 
-Después de las 5 primeras insuflaciones, se comprueba la existencia de pulso arterial durante un máximo de 10 segundos:
+Después de las 5 primeras insuflaciones, se pasa directamente a las maniobras de compresión.
 
 **-Pulso carotídeo en niños.**
-
-
-![Fig.1.21. Toma de pulso en carótida (cuello). Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_21.png)
-
-
-
 
 La técnica es igual a la realizada en el adulto.
 

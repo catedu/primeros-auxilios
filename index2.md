@@ -26,7 +26,7 @@ Te aconsejamos el **visionado del numeroso material multimedia,** que te ayudar�
 
 **Tras haber finalizado este módulo, estarás capacitado para:**
 
-1.  Conocer en qué consisten las enfermedades crónicas que has estudiado: Alergias e intolerancias, Asma, Cáncer, Cardiopatías, Diabetes y Epilepsia.
+1.  Conocer en qué consisten las enfermedades crónicas que has estudiado: Alergias e intolerancias, Asma, Cardiopatías, Diabetes y Epilepsia.
 2.  Saber actuar ante las situaciones en las que se requiera tu actuación urgente
 3.  Comprender la situación del niño que tiene una condición de salud crónica y ayudar a integrarlo entre sus compañeros, a través de su bienestar emocional.
 

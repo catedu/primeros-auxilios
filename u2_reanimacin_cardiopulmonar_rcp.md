@@ -17,7 +17,7 @@ La Reanimación Cardiopulmonar Básica (RCP) es el conjunto de maniobras que per
 
 La parada cardiorrespiratoria se produce por varias causas:
 
-*   Accidentes: de tráfico, por ahogamiento, sensación de ahogo, atragantamiento con objetos, electrocución, intoxicaciones, asfixia u otras lesiones
+*   Accidentes: de tráfico, por ahogamiento, atragantamiento con objetos, electrocución, intoxicaciones, asfixia u otras lesiones
     
 *   Patologías: congénitas graves u otras patologías como la bronquiolitis, asma, tos ferina, etc
     

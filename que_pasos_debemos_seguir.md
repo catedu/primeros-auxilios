@@ -38,11 +38,11 @@ La pauta es: profundidad 5-6 cm, frecuencia 100-120/min. **Muy Importante: NO in
 
 *   Coloca los parches autoadhesivos sobre el pecho de la víctima y sigue las indicaciones de los mensajes de voz/visuales del DEA. 
 *   Un electrodo se coloca bajo la clavícula derecha y otro en la línea media axilar izquierda (costado izquierdo a unos 10 cm de la axila).
-*   Es importante que nadie toque a la víctima mientras el DEA realiza el análisis del ritmo cardíaco.
+*   Es importante que nadie toque a la víctima mientras el DEA realiza el análisis del ritmo cardíaco, especialmente en el momento de la descarga.
 
 El uso precoz de un desfibrilador multiplica las posibilidades de supervivencia de la víctima y no aumenta el riesgo de transmisión de la infección.
 
-**8- HIGIENE DE MANOS TRAS LA REANIMACIÓN:** tras la RCP con solo compresiones torácicas, todas las personas que han intervenido y tan pronto como sea posible,debéis lavaros bien las manos con agua y jabón o solución hidroalcohólica, para minimizar el riesgo de transmisión por el contacto con los fómites de la víctima. Además, se aconseja lavar la ropa utilizada durante las maniobras de RCP.
+**8- HIGIENE DE MANOS TRAS LA REANIMACIÓN:** tras la RCP con solo compresiones torácicas, todas las personas que han intervenido y tan pronto como sea posible, debéis lavaros bien las manos con agua y jabón o solución hidroalcohólica, para minimizar el riesgo de transmisión por el contacto con los fómites de la víctima. Además, se aconseja lavar la ropa utilizada durante las maniobras de RCP.
 
 **Nota: a continuación te dejamos para su visionado las recomendaciones clásicas, para que puedas comprobar los cambios introducidos.**
 
@@ -51,7 +51,7 @@ El uso precoz de un desfibrilador multiplica las posibilidades de supervivencia 
 
 ### **Pasos en la RCP:**
 
-**1.Verificar el nivel de consciencia de la persona (paciente a partir de ahora).**Podemos preguntar cómo se encuentra o practicarle leves sacudidas o palmadas, siempre y cuando tengamos la certeza de que no padece ninguna posible lesión en el cuello o en la cabeza debido a un accidente. Se debe observar si se mueve o emite algún ruido.
+**1.Verificar el nivel de consciencia de la persona (paciente a partir de ahora).** Podemos preguntar cómo se encuentra o practicarle leves sacudidas o palmadas, siempre y cuando tengamos la certeza de que no padece ninguna posible lesión en el cuello o en la cabeza debido a un accidente. Se debe observar si se mueve o emite algún ruido.
 
 **1.1 Si obtenemos respuesta.** Si el paciente responde moviéndose o verbalmente, deberemos dejarlo en la posición lateral de seguridad (a menos que esté expuesto a algún peligro adicional), comprobar su estado y pedir ayuda si fuera necesario.
 
@@ -113,7 +113,7 @@ Colocaremos al paciente boca arriba en un plano duro y con las extremidades alin
         
     *   En niños mayores de 8 años podemos utilizar las 2 manos.
         
-*   Colocar la otra mano de manera que aguante la frente un poco inclinada hacia atrás.
+*   Para niños menores de 8 años, colocar la otra mano de manera que aguante la frente un poco inclinada hacia atrás.
     
 *   Aplicar presión hacia abajo en el pecho del niño comprimiéndolo entre 1/3 y 1/2 de su profundidad.
     
@@ -127,7 +127,7 @@ Colocaremos al paciente boca arriba en un plano duro y con las extremidades alin
 
 ![Fig.2.5. Esquema RCP](img/rcp.png)
 
-**9\. Llamar a urgencias y comprobar signos de vida**. Si al cabo de un minuto de empezar la RCP, seguimos solos y no hemos podido llamar a urgencias (112), deberemos hacerlo en este momento aunque para ello tengamos que abandonar momentáneamente al niño.
+**9\. Llamar a urgencias y comprobar signos de vida**. Si al cabo de un minuto de empezar la RCP, seguimos solos y no hemos podido llamar a urgencias (112), deberemos hacerlo en este momento.
 
 A los 2 minutos deberemos comprobar la eficacia de nuestras maniobras: aparición de signos de vida y/o respiración espontánea.
 
@@ -139,7 +139,7 @@ A los 2 minutos deberemos comprobar la eficacia de nuestras maniobras: aparició
     
 *   Estemos exhaustos
 
-Es importante recordar que no es recomendable realizar maniobras de reanimación con el lactante en brazos y en movimiento. Sólo de forma excepcional, podemos movilizar al niño en caso de que nos desplacemos para solicitar ayuda y continuar las maniobras en el otro lugar.
+Es importante recordar que no es lo mas adecuado realizar maniobras de reanimación con el lactante en brazos y en movimiento. Pero, si hemos de movernos, y de forma excepcional, podemos movilizar al niño en caso de que nos desplacemos para solicitar ayuda y continuar las maniobras en el otro lugar.
 
 >**info**
 >

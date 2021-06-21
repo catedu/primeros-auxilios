@@ -19,13 +19,13 @@ Es importante que sepas que los **síntomas** que puede tener un **niño alérgi
 
 *   Piel: urticaria, habones, picor...
 *   Digestivos: vómitos, diarrea
-*   respiratorios: asma, rinitis
+*   Respiratorios: asma, rinitis
 *   En todo el cuerpo, al mismo tiempo: anafilaxia
 
 ### **Tratamiento**
 
 *   Como puedes imaginar, el mejor es evitar el alimento que produce la alergia, por lo que es muy importante leer los etiquetados de muchos alimentos elaborados, por si aparece oculto.
-*   El médico habrá puesto en la Ficha del escolar con asma, o documento similar, qué es lo que hay que hacer en estos casos, de ahí la importancia de mantener una comunicación fluida entre los padres, el peronal sanitario y el centro escolar.
+*   El médico habrá puesto en la Ficha del escolar con asma, o documento similar, qué es lo que hay que hacer en estos casos, de ahí la importancia de mantener una comunicación fluida entre los padres, el personal sanitario y el centro escolar.
 
 En la **"Guía de comedores escolares de la Comunidad Autónoma de Aragón"** se hace mención a la situación de un niño que puede presentar una alergia alimentaria, por lo que es aconsejable que la consultes. Fue presentada en el año 2013 y actualmente está en proceso de actualización.
 
@@ -40,5 +40,5 @@ Para ello es fundamental que tu entusiasmo al hacer este curso se transmita a lo
 *   No es posible predecir la gravedad final de las reacciones por los síntomas iniciales
 *   Todo el personal escolar debe recibir formación sobre el reconocimiento y el tratamiento precoz de las reacciones alérgicas para que se pueda administrar la medicación de urgencia sin retraso.
 *   El riesgo de anafilaxia por contacto cutáneo con el alérgeno alimentario es mínimo
-*   Por tanto, no es necesario separar a los niños de sus compañeros durante la comidas, aunque se debe evitar el compartir o intercambiar comida
+*   Por tanto, no es necesario separar a los niños de sus compañeros durante las comidas, aunque se debe evitar el compartir o intercambiar comida
 

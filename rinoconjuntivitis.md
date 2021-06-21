@@ -21,7 +21,7 @@ No te asustes con este nombre tan complicado: se llama así al conjunto de proce
 
 **Puntos que debes tener en cuenta como profesor:**
 
-*   Debes permitir al niño con alergia que **tome su medicación** para tratar los síntomas en la escuauela cuando lo necesite
+*   Debes permitir al niño con alergia que **tome su medicación** para tratar los síntomas en la escuela cuando lo necesite
 *   No reprendas al niño alérgico por **mostrar síntomas alérgicos frecuentes** como estornudar o aspirar mucosidad por la nariz
 *   Debes  prever un aumento de síntomas durante las actividades exteriores en temporada alta
 *   Tienes que ser consciente de que la rinoconjuntivitis puede reducir el rendimiento en los exámenes y empeorar el asma

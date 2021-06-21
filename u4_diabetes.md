@@ -33,11 +33,9 @@ Como puedes observar el joven diabético va a vivir muchas situaciones que le pu
 ![Fig.3.24. Niño autoinyectándose insulina. Campamento educativo](img/autoinyeccion.jpg)
 
 
-**En esta unidad desarrollarás** conocimientos y habilidades con el fin de mejorar la calidad de vida de nuestros alumnos, además de saber qué hacer y cómo actuar 
+**En esta unidad desarrollarás** conocimientos y habilidades con el fin de mejorar la calidad de vida de nuestros alumnos, además de saber qué hacer y cómo actuar ante las diferentes situaciones que pueden surgir relacionadas con la diabetes.
 
-ante las diferentes situaciones que pueden surgir relacionadas con la diabetes.
-
-**Te proponemos los sigui****entes bloques de contenidos:**
+**Te proponemos los siguientes bloques de contenidos:**
 
 *   Qué es la diabetes
 *   Ejercicio físico
@@ -46,5 +44,5 @@ ante las diferentes situaciones que pueden surgir relacionadas con la diabetes.
 *   Complicación aguda: subida de la glucemia en sangre o hiperglucemia
 *   Complicación aguda: bajada brusca de la glucosa en sangre o hipoglucemia. Actuaciones inmediatas
 
- **¡Ánimo! Estamos convencidos de que esta unidad te va a gustar... ¡Es muy práctica****!**
+ **¡Ánimo! Estamos convencidos de que esta unidad te va a gustar... ¡Es muy práctica!**
 

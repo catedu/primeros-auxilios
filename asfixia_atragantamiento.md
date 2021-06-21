@@ -25,11 +25,11 @@
 
 ## Importante
 
-* Si el niño se arquea y tose pero puede respirar y hablar, las vías respiratorias no están completamente obstruidas y es mejor no hacer nada. Probablemente el niño estará bien después del ataque de tos.
-* Si el niño se estaba ahogando y se queda inconsciente o no respira, pide ayuda e inmediatamente después inicia las maniobras de Reanimación Cardiopulmonar
+* Si el niño se arquea y tose pero puede respirar y hablar, las vías respiratorias no están completamente obstruidas y hay que animarle a toser. Probablemente el niño estará bien después del ataque de tos.
+* Si la obstrucción es completa hay que comenzar con la maniobra del OVCE (obstruccion de via aérea por cuerpo extraño) consistente en dar hasta 5 palmadas interescapulares .......
 * Lleva al niño al médico después de cualquier incidente mayor de ahogo, especialmente si tiene tos persistente. Si el niño tiene dificultad al respirar o al tragar, acudir al servicio de emergencias.
 
-**Llama al teléfono 112 inmediatamente**, o pedir a alguien que lo haga.
+**Llama al teléfono 061 inmediatamente**, o pedir a alguien que lo haga.
 
 Aplica inmediatamente las **compresiones abdominales** (también conocidas como la **maniobra de Heimlich)**. **PRECAUCIÓN:** Si no se hacen correctamente, esta maniobra puede lastimar al niño.
 

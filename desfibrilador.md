@@ -4,10 +4,10 @@ El **desfibrilador es** un aparato eléctrico que sirve para lograr que el coraz
 
 **Existen 2 tipos:**
 
-*   Los Desfibriladores Semiautomáticos Externos (DSEA)
+*   Los Desfibriladores Semiautomáticos Externos (DESA)
 *   Los Desfibriladores Automáticos Externos (DEA)
 
-Nosotros vamos a detallarte los **DEA**, ya que analizan la situación, y si consideran que es necesario iniciar la descarga, avisan y pueden realizarla automáticamente. Son muy sencillos de utilizar, y a través del foro te ayudaremos a aprender muchas más cosas relativas a ello.
+Nosotros vamos a detallarte los **DEA**, ya que analizan el ritmo cardiaco y, si consideran que es necesario iniciar la descarga, avisan y pueden realizarla automáticamente. Son muy sencillos de utilizar, y a través del foro te ayudaremos a aprender muchas más cosas relativas a ello.
 
 de momento, quédate con la secuencia de la imagen:
 

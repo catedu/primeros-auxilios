@@ -37,7 +37,7 @@ La causa de los TCA es biopsicosocial, porque intervienen factores biológicos, 
 
 
 
-**Si tienes intuición de que alguna per****sona de tu centro puede tener un TCA, puedes...**
+**Si tienes intuición de que alguna persona de tu centro puede tener un TCA, puedes...**
 
 *   Compartir tus dudas con otro docente
 *   Reunirte con quien más relación tenga con esa persona, para que actúe como intermediaria, ya que a veces no quiere hablar de estos temas con sus padres, y el profesor puede servir de acercamiento
