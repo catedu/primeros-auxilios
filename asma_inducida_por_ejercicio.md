@@ -29,7 +29,7 @@ En cambio, **son menos asmógenos los deportes en los que hay más descansos y 
 
 **ASMA Y TIEMPO LIBRE, EXCURSIONES...**
 
-Podéis realizar aquellas actividades de ocio que tengáis programadas en el curso gusten: ir de excursión, acudir a campamentos... evitando, siempre que se pueda, los factores desencadenantes y llevando siempre la medicación preventiva y de rescate.
+Podéis realizar aquellas actividades de ocio que tengáis programadas en el curso: ir de excursión, acudir a campamentos... evitando, siempre que se pueda, los factores desencadenantes y llevando siempre la medicación preventiva y de rescate.
 
 Es aconsejable que si vas tú a la excursión recuerdes cómo tratar una crisis asmática, con la documentación pertinente.
 
