@@ -17,7 +17,7 @@ No hemos querido explicarte la diferencia que hay entre la alergia y la intolera
 			durante toda la vida, y es llevar una dieta sin gluten, lo que hace que no existan síntomas y mejore la situación del
 			intestino delgado. La lectura del etiquetado de los alimentos es muy importante para conocer qué ingredientes contienen,
 			y no tomarlos si tienen gluten. En la actual Guía de comedores escolares de Aragón existe un apartado específico para
-			este tema, afirmando que "si en el centro escolar hay algín alumno matriculado con enfermedad celíaca se ofrecerá un menú
+			este tema, afirmando que "si en el centro escolar hay algún alumno matriculado con enfermedad celíaca se ofrecerá un menú
 			especial que garantice una dieta sin gluten". </p>
 		<answer correct>Verdadero</answer>
 		<answer>Falso</answer>
