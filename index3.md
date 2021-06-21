@@ -30,6 +30,6 @@ Esperamos que tal diversidad de conocimiento no haga sino que aumente más tu en
     
 3.  Conocer los aspectos relacionados con la obesidad, así como los ámbitos de acción de la Estrategia de Promoción de la Alimentación y Actividad Física Saludables en Aragón, en especial el ámbito educativo
     
-4.  Tener claridad en las actuaciones como docente en aquellos aspectos que precisan de su actuación, relacionadas con la administración de medicamentos, atención en primeros auxilios, atención en situaciones previsibles de urgencia n alumnos con enfermedades crónicas.
+4.  Tener claridad en las actuaciones como docente en aquellos aspectos que precisan de su actuación, relacionadas con la administración de medicamentos, atención en primeros auxilios, atención en situaciones previsibles de urgencia de alumnos con enfermedades crónicas.
     
 
