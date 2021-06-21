@@ -18,9 +18,8 @@
 *   **La adrenalina intramuscular (IM) es el tratamiento inicial de elección**
 *   Se debe administrar con un **autoinyectable** en el **músculo vasto externo del muslo**
 *   Las personas que han recibido formación como tú debéis estar presentes en la escuela, ya que el retraso en la administración de adrenalina IM se asocia con muerte por anafilaxia
-*   El personal escolar debe tener **inmunidad frente a acusaciones judiciales** por posibles daños que aparezcan por administrar la medicación de urgencia
-*   Los **niños más mayores (>10 años),** que hayan recibido formación adecuada, pueden administrarse ellos mismos la adrenalina con consentimiento paterno.
-*   Se deben **administrar también antihistamínicos orales**, y se debe colocar al niño en una posición cómoda (tumbar al paciente, si hay síntomas respiratorias se deben sentar y tomar broncodilatadores, si están disponibles).
+*   Los **niños más mayores (>10 años),** que hayan recibido formación adecuada, pueden administrarse ellos mismos la adrenalina con consentimiento paterno, siempre bajo la supervisión de un adulto.
+*   Se deben **administrar también antihistamínicos orales**, y se debe colocar al niño en una posición cómoda (tumbar al paciente, si hay síntomas respiratorios se deben sentar y tomar broncodilatadores, si están disponibles).
 *   Se debe **vigilar continuamente al niño y organizar el traslado** al servicio de urgencias hospitalario más cercano, independientemente del tratamiento administrado la medicación o de una aparente vuelta a la normalidad.
 *   No se debe enviar al niño a su domicilio
 
