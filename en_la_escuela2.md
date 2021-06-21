@@ -10,7 +10,7 @@
  **Lo principal es** que hayas tenido información sobre las características del niño por parte de los padres, principalmente en lo referente a :
 
 *   Su cardiopatía
-*   Las posibles resticciones deportivas
+*   Las posibles restricciones deportivas
 *   Las situaciones en las que pueda tener algún tipo de manifestación peligrosa
 *   Los posibles días de absentismo en la escuela, por las hospitalizaciones que puedan tener debidas a las operaciones
 
@@ -25,5 +25,5 @@
 
 ## Importante
 
-Tus objetivos como maestro cuando el niño esté hospitalizado irán orientados a favorecer SU contacto con la clase, mediante muchas técnicas (cartas y postales, llamadas, whatsapp...), así como favorecer el proceso de aprendizaje de tu alumno.
+Tus objetivos como maestro cuando el niño esté hospitalizado irán orientados a favorecer su contacto con la clase, mediante muchas técnicas (cartas y postales, llamadas, whatsapp...), así como favorecer el proceso de aprendizaje de tu alumno.
 
