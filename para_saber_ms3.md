@@ -68,7 +68,7 @@ Disponible en: [https://bit.ly/2VfXRmM](https://bit.ly/2VfXRmM)
 
 {Consultado: 24/11/2020}
 
-A través de este enlace podemos a un numeroso y muy bien editado material didáctico en diversos formatos para poder desarrollar la estrategia NAOs; existen diferentes apartados: para los profesores, los menores, las familias, documentos para el entorno escolar, juegos, etc. 
+A través de este enlace podemos a un numeroso y muy bien editado material didáctico en diversos formatos para poder desarrollar la estrategia NAOS; existen diferentes apartados: para los profesores, los menores, las familias, documentos para el entorno escolar, juegos, etc. 
 
 ### Guía de la Asociación Española de Pediatría para centros docentes.
 
