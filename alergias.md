@@ -23,6 +23,6 @@ Así, se puede desencadenar:
 
 *   **Urticaria:** es la aparición súbita de piel enrojecida y sobreelevada (los típicos habones y ronchas) que pican y cambian de localización en el cuerpo
 *   **Angioedema**: se llama así al hinchazón en la zona de la cara, los genitales, las manos o pies... que no pica ni duele (es una sensación de quemazón) que también se puede dar en la boca, faringe...
-*   **Anafilaxia**: es una reacción inmediata y muy grave a nivel de todo el cuerpo
+*   **Anafilaxia**: es una reacción inmediata y muy grave puede ser a nivel de todo el cuerpo pero no necesariamente
 *   **Mordedura** de animales/insectos: puede producir reacciones locales
 
