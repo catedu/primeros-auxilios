@@ -10,10 +10,7 @@ Como has comprobado a lo largo de los textos anteriores la PSL es la posición e
 
 *   **Consiste en** tumbar a la persona sobre un costado, con la cabeza apoyada en un brazo y la pierna libre flexionada.
     
-*   **Es útil porque** evita que, en caso de producirse vómitos, éstos sean
-    
-
-aspirados a las vías respiratorias y que la lengua las obstruya.
+*   **Es útil porque** evita que, en caso de producirse vómitos, éstos sean aspirados a las vías respiratorias y que la lengua las obstruya.
 
 >**danger**
 >
@@ -54,4 +51,4 @@ aspirados a las vías respiratorias y que la lengua las obstruya.
 *   Administrarle sólidos o líquidos por la boca
     
 
-**Es recomendable que además** permitasun ambiente aireado, evitando aglomeraciones de personas, sobretodo niños que se acercan a ver y pueden asustarse, consiguiendo de esta manera mejor aireación del espacio en el que está el individuo tumbado.
+**Es recomendable que además** permitas un ambiente aireado, evitando aglomeraciones de personas, sobretodo niños que se acercan a ver y pueden asustarse, consiguiendo de esta manera mejor aireación del espacio en el que está el individuo tumbado.
