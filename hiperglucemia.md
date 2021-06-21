@@ -22,7 +22,7 @@ Existen unas **normas de actuación** ante esta situación que **no es una urgen
 
 Podemos encontrarnos ante dos supuestos:
 
-1.  Si tras realizar un control de glucemia se detectan **cifras por encima de los valores normales**puede ser necesario administrar una dosis de insulina suplementaria según la pauta que pueden aportar los padres.
+1.  Si tras realizar un control de glucemia se detectan **cifras por encima de los valores normales** puede ser necesario administrar una dosis de insulina suplementaria según la pauta que pueden aportar los padres.
 2.  Si aparecen los síntomas antes mencionados (sed intensa, necesidad de orinar con más frecuencia, cansancio, dolor de cabeza o abdominal, vómitos, “calambres” en las piernas… ) se debe contactar con los padres y/o profesionales sanitarios responsables del escolar
 
 ## Importante
