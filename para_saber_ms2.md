@@ -12,7 +12,7 @@ La Fundación BBVA y la Fundación María José Jove han publicado este libro pa
 
 Disponible:
 
-[http://www.aragon.es/estaticos/GobiernoAragon/Departamentos/SaludConsumo/Documentos/docs/Profesionales/Salud%20publica/Publicaciones/Asma/DOCUMENTO\_SALUD\_ASMA_PEDIATRIA.pdf](http://www.aragon.es/estaticos/GobiernoAragon/Departamentos/SaludConsumo/Documentos/docs/Profesionales/Salud%20publica/Publicaciones/Asma/DOCUMENTO_SALUD_ASMA_PEDIATRIA.pdf)
+[Documento en pdf](https://www.aragon.es/documents/20127/674325/DOCUMENTO_SALUD_ASMA_PEDIATRIA.pdf/1383feb2-907b-273a-a075-bd5a0f431466)
 
 Editado por la Dirección General de Salud Pública del Gobierno de Aragón, es una libreta elaborada por el Grupo de trabajo en Respiratorio de la Asociación Aragonesa de Pediatría en Atención Primaria. Es muy funcional, con un formato sencillo de 32 páginas donde encontramos una publicación eminentemente práctica, cuyo recorrido abarca los datos de identificación personal, direcciones de interés en Internet, número de crisis por edad y mes de aparición, explicación de qué es la función pulmonar y el asma, los factores que lo desencadenan, su tratamiento farmacológico y preventivo, así como las situaciones especiales del asma y el ejercicio físico, el papel de los padres y los docentes, los elementos claves de control y una ficha para apuntar las citaciones en la consulta programada del asma. Con el permiso del editor (DG salud Pública) puedes utilizar sus contenidos...
 
