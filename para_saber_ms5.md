@@ -4,7 +4,7 @@
 
 **Ficha del escolar con diabetes**
 
-Disponible:  [http://bit.ly/2gp33PK](http://bit.ly/2gp33PK)
+Disponible:  [Web de Salud Informa](https://www.saludinforma.es/portalsi/web/escuela-de-salud/temas-de-salud/general/salud-y-etapas-en-la-vida/salud-en-la-infancia/ficha-del-escolar-con-diabetes)
 
 Esta ficha ha sido editada por la Dirección General de Salud Pública y cuenta con 6 apartados de fácil comprensión, que sirve para ayudarte en el caso de que tengas un alumno con diabetes en tu aula. Estará rellenada por el pediatra y los padres para facilitar la integración del escolar. Además del formato electrónico también hay fichas disponibles en formato papel por si precisas alguna.
 
