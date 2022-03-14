@@ -20,7 +20,7 @@ Editado por la Dirección General de Salud Pública del Gobierno de Aragón, es 
 
 Disponible:
 
-[http://www.sesamestreet.org/parents/topicsandactivities/toolkits/asthma/spanish](http://www.sesamestreet.org/parents/topicsandactivities/toolkits/asthma/spanish)
+[Vídeo de Barrio Sésamo](https://www.youtube.com/watch?v=gsscRh3t3yk)
 
 En la web aparece un video de 16:44" donde un personaje de Barrio Sésamo (Sesame Street) explica que tiene asma. Sesame Street y United Health care inician esta campaña para concienciar a la población hispana de Estados Unidos sobre el asma infantil. El programa de esta campaña ofrece materiales de ayuda (videos, hojas de actividades y un boletín con Bert & Ernie de Sesame Street tanto en inglés como en español) para que los niños y sus familias reconozcan los factores que desencadenan el asma y puedan controlar la enfermedad de forma eficaz.
 
