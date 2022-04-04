@@ -48,3 +48,18 @@ Los padres aportarán documentación relativa a los síntomas que suele presenta
 *   Fíjate qué diferentes son los síntomas de la hipoglucemia de los de la hiperglucemia
 *   El glucagón es una hormona con acción opuesta a la insulina: sube la glucosa en sangre
 
+>**info**
+>**Nota sobre el tratamiento de la Hipoglucemia**
+>
+>Actualmente existe un fármaco (Baqsimi®) que está indicado para el tratamiento de la hipoglucemia grave en adultos, adolescentes y niños de 4 años o más con diabetes mellitus.
+>Ha sido aprobado por la Unión Europea y se administra vía nasal, evitando así muchos de los inconvenientes propios de la administración parenteral.
+>Su administración es muy sencilla, ya que no hace falta inhalación del medicamento, sino que se absorbe en la mucosa nasal de forma pasiva al aplicarlo como un spray nasal. Además no hace falta su refrigeración.
+>Se pueden visualizar los pasos para el uso de Baqsimi 3 mg polvo nasal (glucagón) en el siguiente video de la Agencia española de Medicamentos y Productos sanitarios (AEMPS):
+>
+>{% youtube %}https://youtu.be/uTWKxAovnuc{% endyoutube %}
+>
+>Puedes tener más información en:
+>
+> * [https://www.baqsimi.com/](https://www.baqsimi.com/)
+> * [https://www.baqsimi.com/patient-stories#](https://www.baqsimi.com/patient-stories#)
+
